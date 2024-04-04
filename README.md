@@ -1,1 +1,1 @@
-# Akciger-Siniflandirma
+# Pneumonia Classification
